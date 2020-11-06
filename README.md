@@ -22,7 +22,7 @@
 
 - <p> 🔶 Minimalist.</p>
 
-- <p> 📫 How to reach me <a href="hbuzer98@gmail.com">hbuzer98@gmail.com</a></p>
+- <p> 📫 How to reach me <a href="mailto:hbuzer98@gmail.com">hbuzer98@gmail.com</a></p>
 
 - <p> ⚡ Fun fact <b>I can spend a whole day watching TV Serieses 📺😅</b></p>
 
