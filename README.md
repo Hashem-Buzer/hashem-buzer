@@ -1,4 +1,4 @@
-<h2 align="center">Helllloo, I'm <b>Hashem Buzer</b> aka ( #em ) 😎👨‍💻</h2>
+<h2 align="center">Helllloo, I'm <i>Hashem Buzer</i> aka ( #em ) 😎👨‍💻</h2>
 <h4 align="center">Full-Stack web developer specialized in Front-End ( Angular ) ♥ </h4>
 
 <p align="center" style="margin : 10px auto;">
