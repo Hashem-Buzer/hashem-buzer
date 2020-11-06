@@ -1,4 +1,4 @@
-<h2 align="center">Helllloo, I'm Hashem Buzer aka ( #em ) 😎👨‍💻</h2>
+<h2 align="center">Helllloo, I'm <b>Hashem Buzer</b> aka ( #em ) 😎👨‍💻</h2>
 <h4 align="center">Full-Stack web developer specialized in Front-End ( Angular ) ♥ </h4>
 
 <p align="center" style="margin : 10px auto;">
@@ -6,9 +6,9 @@
 
 ---
 
-<h4 align="left">Who am i ??</h4>
+<h3 align="left">Who am i ??</h3>
 
-- <p> 🤵🏻 Looking to be **Software Engineer**.</p>
+- <p> 🤵🏻 Looking to be <b>Software Engineer</b>.</p>
 
 - <p> 👨🏻‍💻 MEAN Stack guy.</p>
 
@@ -22,9 +22,9 @@
 
 - <p> 🔶 Minimalist.</p>
 
-- <p> 📫 How to reach me **hbuzer98@gmail.com**</p>
+- <p> 📫 How to reach me <b>hbuzer98@gmail.com</b></p>
 
-- <p> ⚡ Fun fact **I can spend a whole day watching TV Serieses 📺😅**</p>
+- <p> ⚡ Fun fact <b>I can spend a whole day watching TV Serieses 📺😅</b></p>
 
 <div align="center">
 
@@ -50,7 +50,7 @@
 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-plain.svg" alt="nodejs" width="40" height="40"/>
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
