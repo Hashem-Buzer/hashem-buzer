@@ -8,9 +8,9 @@
 
 <h3 align="left">Who am i ??</h3>
 
-- <p> 🤵🏻 Looking to be <b>Software Engineer</b>.</p>
+- <p> 🤵🏻 <b>Software Engineer</b>.</p>
 
-- <p> 👨🏻‍💻 MEAN Stack guy.</p>
+- <p> 👨🏻‍💻 <b>MEAN Stack</b> guy.</p>
 
 - <p> 🔧 Problem solver.</p>
 
@@ -50,12 +50,12 @@
 
   <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-
   <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
 
   <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
 
+  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
 </div>
