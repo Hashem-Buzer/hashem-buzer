@@ -1,26 +1,26 @@
 <h2 align="center">Helllloo, I'm Hashem Buzer aka ( #em ) 😎👨‍💻</h2>
-<h3 align="center">Full-Stack web developer specialized in Front-End ( Angular ) ♥ </h3>
+<h4 align="center">Full-Stack web developer specialized in Front-End ( Angular ) ♥ </h4>
 
 <p align="center" style="margin : 10px auto;">
 <div align="center"><img src="https://komarev.com/ghpvc/?username=hashem-buzer" alt="#em" /> </div>
 
 ---
 
-<h5 align="left">Who am i ??</h5>
+<h4 align="left">Who am i ??</h4>
 
-- 🤵🏻 Looking to be **Software Engineer**.
+- 🤵🏻 <p>Looking to be **Software Engineer**.</p>
 
-- 👨🏻‍💻 MEAN Stack guy.
+- 👨🏻‍💻 <p>MEAN Stack guy.</p>
 
-- 🔧 Problem solver.
+- 🔧 <p>Problem solver.</p>
 
-- 🎾 Tennis player.
+- 🎾 <p>Tennis player.</p>
 
-- 🎙 Beatboxer.
+- 🎙 <p>Beatboxer.</p>
 
-- 🎸 Guitarist.
+- 🎸 <p>Guitarist.</p>
 
-- 🔶 Minimalist.
+- 🔶 <p>Minimalist.</p>
 
 - 📫 How to reach me **hbuzer98@gmail.com**
 
