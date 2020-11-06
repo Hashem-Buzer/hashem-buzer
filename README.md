@@ -65,7 +65,7 @@
 <table width="100%">
   <tr>
     <td width="60%">
-      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashem-buzer&show_icons=true&hide_border=true" alt="#em" /></p>
+      <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hashem-buzer&show_icons=true&hide_border=true&count_private=true" alt="#em" /></p>
     </td>
     <td width="40%">
       <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashem-buzer&layout=compact&show_icons=true&hide_border=true" alt="#em" /></p>
