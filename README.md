@@ -46,7 +46,7 @@
 
 <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
 
-<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-plain.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
 
 <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
 
