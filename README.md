@@ -30,33 +30,27 @@
 
   <img src="./assets/html.png" alt="html" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+  <img src="./assets/css.png" alt="css3" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+  <img src="./assets/sass.png" alt="sass" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/jquery/jquery-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="./assets/bootstrap.png" alt="bootstrap" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40" height="40"/>
+  <img src="./assets/js.png" alt="javascript" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
+  <img src="./assets/mongo.png" alt="mongodb" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
+  <img src="./assets/express.png" alt="express" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
+  <img src="./assets/angular.png" alt="angular" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/angularjs/angularjs-original.svg" alt="angularjs" width="40" height="40"/>
+  <img src="./assets/nodejs.png" alt="nodejs" width="40" height="40"/>
 
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="./assets/firebase.png" alt="firebase" width="40" height="40"/>
 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/>
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/>
-
-  <img src="https://devicons.github.io/devicon/devicon.git/icons/npm/npm-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
+  <img src="./assets/mySQL.png" alt="mysql" width="40" height="40"/>
   
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+  <img src="./assets/git.png" alt="git" width="40" height="40"/>
 
 </div>
 
