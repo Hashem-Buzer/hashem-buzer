@@ -48,7 +48,7 @@
 
   <img src="./assets/firebase.png" alt="firebase" width="40" height="40"/>
 
-  <img src="./assets/mySQL.png" alt="mysql" width="40" height="40"/>
+  <img src="./assets/MySQL.png" alt="mysql" width="40" height="40"/>
   
   <img src="./assets/git.png" alt="git" width="40" height="40"/>
 
